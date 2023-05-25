@@ -1,0 +1,7 @@
+/* .top > .icon-image.has-icon, .style-profile-champion-icon-masked > img {
+	content: var(--Avatar) !important;
+} */
+.hover-card-info{
+	display: flex !important;
+	justify-content: flex-end !important;
+}
